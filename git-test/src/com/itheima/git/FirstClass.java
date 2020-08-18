@@ -10,5 +10,8 @@ public class FirstClass {
         int i = 0;
         i += 10;
         System.out.println(i);
+        int a = 2;
+        int b = 3;
+        System.out.println(a + b);
     }
 }
